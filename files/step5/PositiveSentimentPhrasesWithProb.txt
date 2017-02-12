@@ -1,0 +1,47 @@
+Strng:please continue<count> Count:41<count> Probability:0.9268293
+Strng:just keeps<count> Count:63<count> Probability:0.82539684
+Strng:please keep<count> Count:31<count> Probability:0.8064516
+Strng:ignore my<count> Count:24<count> Probability:0.7916667
+Strng:waking up<count> Count:516<count> Probability:0.7906977
+Strng:waking<count> Count:555<count> Probability:0.77117115
+Strng:ignore<count> Count:548<count> Probability:0.7682482
+Strng:really appreciate<count> Count:43<count> Probability:0.76744187
+Strng:guessed<count> Count:30<count> Probability:0.76666665
+Strng:i've missed<count> Count:47<count> Probability:0.7446808
+Strng:is totally<count> Count:28<count> Probability:0.71428573
+Strng:spending<count> Count:274<count> Probability:0.7116788
+Strng:be fun<count> Count:165<count> Probability:0.7030303
+Strng:looove<count> Count:20<count> Probability:0.7
+Strng:doing homework<count> Count:73<count> Probability:0.6712329
+Strng:loooove<count> Count:15<count> Probability:0.6666667
+Strng:coded<count> Count:3<count> Probability:0.6666667
+Strng:hair looks<count> Count:23<count> Probability:0.65217394
+Strng:gutted<count> Count:28<count> Probability:0.64285713
+Strng:ironing<count> Count:11<count> Probability:0.6363636
+Strng:i'm stuck<count> Count:27<count> Probability:0.6296296
+Strng:i enjoy<count> Count:50<count> Probability:0.62
+Strng:annoyed<count> Count:169<count> Probability:0.6035503
+Strng:didn't want<count> Count:63<count> Probability:0.6031746
+Strng:sneezing<count> Count:9<count> Probability:0.5555556
+Strng:ignoring<count> Count:49<count> Probability:0.53061223
+Strng:spend<count> Count:621<count> Probability:0.52495974
+Strng:sitting<count> Count:464<count> Probability:0.51939654
+Strng:partying<count> Count:33<count> Probability:0.5151515
+Strng:canceled<count> Count:34<count> Probability:0.5
+Strng:comin'<count> Count:6<count> Probability:0.5
+Strng:reworked<count> Count:2<count> Probability:0.5
+Strng:stoked<count> Count:33<count> Probability:0.4848485
+Strng:hearing<count> Count:181<count> Probability:0.47513813
+Strng:folding<count> Count:15<count> Probability:0.46666667
+Strng:invites<count> Count:15<count> Probability:0.46666667
+Strng:encouraging<count> Count:11<count> Probability:0.45454547
+Strng:texted<count> Count:106<count> Probability:0.44339624
+Strng:doubles<count> Count:16<count> Probability:0.4375
+Strng:signing<count> Count:87<count> Probability:0.43678162
+Strng:excited<count> Count:811<count> Probability:0.4290999
+Strng:cancelled<count> Count:105<count> Probability:0.42857143
+Strng:having<count> Count:1566<count> Probability:0.42656448
+Strng:appreciate<count> Count:262<count> Probability:0.42366412
+Strng:filling<count> Count:36<count> Probability:0.41666666
+Strng:answering<count> Count:46<count> Probability:0.41304347
+Strng:pissed<count> Count:354<count> Probability:0.40960452

@@ -1,0 +1,319 @@
+Strng:being woken<count> Count:48<count> Probability:1.0
+Strng:being woken up<count> Count:44<count> Probability:1.0
+Strng:getting ignored<count> Count:24<count> Probability:1.0
+Strng:being ignored it's<count> Count:18<count> Probability:1.0
+Strng:being stuck in<count> Count:14<count> Probability:1.0
+Strng:being talked<count> Count:14<count> Probability:1.0
+Strng:being ditched<count> Count:14<count> Probability:1.0
+Strng:being left out<count> Count:12<count> Probability:1.0
+Strng:paying bills<count> Count:12<count> Probability:1.0
+Strng:being ignored makes<count> Count:10<count> Probability:1.0
+Strng:being talked to<count> Count:10<count> Probability:1.0
+Strng:walking home in<count> Count:10<count> Probability:1.0
+Strng:being ignored best<count> Count:10<count> Probability:1.0
+Strng:doing nothing on<count> Count:10<count> Probability:1.0
+Strng:being ignored it<count> Count:8<count> Probability:1.0
+Strng:working doubles<count> Count:8<count> Probability:1.0
+Strng:getting invited<count> Count:8<count> Probability:1.0
+Strng:getting blown off<count> Count:8<count> Probability:1.0
+Strng:getting made<count> Count:8<count> Probability:1.0
+Strng:getting made fun<count> Count:8<count> Probability:1.0
+Strng:being called fat<count> Count:8<count> Probability:1.0
+Strng:being awake at<count> Count:8<count> Probability:1.0
+Strng:being invited places<count> Count:8<count> Probability:1.0
+Strng:being reminded<count> Count:8<count> Probability:1.0
+Strng:being ignored #not<count> Count:8<count> Probability:1.0
+Strng:having practice<count> Count:8<count> Probability:1.0
+Strng:being left alone<count> Count:8<count> Probability:1.0
+Strng:spending my saturday<count> Count:7<count> Probability:1.0
+Strng:getting bad news<count> Count:6<count> Probability:1.0
+Strng:taking cold showers<count> Count:6<count> Probability:1.0
+Strng:doing homework on<count> Count:6<count> Probability:1.0
+Strng:being wide awake<count> Count:6<count> Probability:1.0
+Strng:waiting around<count> Count:6<count> Probability:1.0
+Strng:being sick all<count> Count:6<count> Probability:1.0
+Strng:being reminded of<count> Count:6<count> Probability:1.0
+Strng:doing lab<count> Count:6<count> Probability:1.0
+Strng:being sick it's<count> Count:6<count> Probability:1.0
+Strng:being sick it<count> Count:6<count> Probability:1.0
+Strng:being lied too<count> Count:6<count> Probability:1.0
+Strng:being stood up<count> Count:6<count> Probability:1.0
+Strng:being wide<count> Count:6<count> Probability:1.0
+Strng:being stood<count> Count:6<count> Probability:1.0
+Strng:being blamed for<count> Count:6<count> Probability:1.0
+Strng:getting locked out<count> Count:6<count> Probability:1.0
+Strng:being blamed<count> Count:6<count> Probability:1.0
+Strng:being second<count> Count:6<count> Probability:1.0
+Strng:taking tests<count> Count:6<count> Probability:1.0
+Strng:feeling ignored<count> Count:6<count> Probability:1.0
+Strng:being sick on<count> Count:6<count> Probability:1.0
+Strng:getting kicked<count> Count:6<count> Probability:1.0
+Strng:getting invited to<count> Count:6<count> Probability:1.0
+Strng:working until<count> Count:6<count> Probability:1.0
+Strng:being ignored thank<count> Count:6<count> Probability:1.0
+Strng:being home so<count> Count:6<count> Probability:1.0
+Strng:getting off work<count> Count:6<count> Probability:1.0
+Strng:getting home at<count> Count:6<count> Probability:1.0
+Strng:getting locked<count> Count:6<count> Probability:1.0
+Strng:having bruises<count> Count:6<count> Probability:1.0
+Strng:spending my friday<count> Count:5<count> Probability:1.0
+Strng:living next to<count> Count:4<count> Probability:1.0
+Strng:having quizzes that<count> Count:4<count> Probability:1.0
+Strng:being screwed over<count> Count:4<count> Probability:1.0
+Strng:being exhausted but<count> Count:4<count> Probability:1.0
+Strng:being up early<count> Count:4<count> Probability:1.0
+Strng:getting sick right<count> Count:4<count> Probability:1.0
+Strng:being dehydrated fatigued<count> Count:4<count> Probability:1.0
+Strng:being called an<count> Count:4<count> Probability:1.0
+Strng:being ignored for<count> Count:4<count> Probability:1.0
+Strng:getting stared at<count> Count:4<count> Probability:1.0
+Strng:getting ditched for<count> Count:4<count> Probability:1.0
+Strng:getting hit in<count> Count:4<count> Probability:1.0
+Strng:trying steak ribs<count> Count:4<count> Probability:1.0
+Strng:watching fresh beat<count> Count:4<count> Probability:1.0
+Strng:being ignored d<count> Count:4<count> Probability:1.0
+Strng:being told what<count> Count:4<count> Probability:1.0
+Strng:being sick in<count> Count:4<count> Probability:1.0
+Strng:getting ditched it<count> Count:4<count> Probability:1.0
+Strng:having dinner alone<count> Count:4<count> Probability:1.0
+Strng:eating by myself<count> Count:4<count> Probability:1.0
+Strng:having bruises the<count> Count:4<count> Probability:1.0
+Strng:getting kicked in<count> Count:4<count> Probability:1.0
+Strng:getting sick in<count> Count:4<count> Probability:1.0
+Strng:being stalked it<count> Count:4<count> Probability:1.0
+Strng:having practice on<count> Count:4<count> Probability:1.0
+Strng:paying bills so<count> Count:4<count> Probability:1.0
+Strng:meeting guys at<count> Count:4<count> Probability:1.0
+Strng:being told how<count> Count:4<count> Probability:1.0
+Strng:scoring last minute<count> Count:4<count> Probability:1.0
+Strng:getting called into<count> Count:4<count> Probability:1.0
+Strng:spending vacation up<count> Count:4<count> Probability:1.0
+Strng:doing lab reports<count> Count:4<count> Probability:1.0
+Strng:having terrible wifi<count> Count:4<count> Probability:1.0
+Strng:sending sleep text<count> Count:4<count> Probability:1.0
+Strng:coming downstairs only<count> Count:4<count> Probability:1.0
+Strng:paying bills best<count> Count:4<count> Probability:1.0
+Strng:being ignored #notreally<count> Count:4<count> Probability:1.0
+Strng:getting chewed out<count> Count:4<count> Probability:1.0
+Strng:getting called in<count> Count:4<count> Probability:1.0
+Strng:being sick during<count> Count:4<count> Probability:1.0
+Strng:feeling left out<count> Count:4<count> Probability:1.0
+Strng:being ignored #myfavorite<count> Count:4<count> Probability:1.0
+Strng:being ignored when<count> Count:4<count> Probability:1.0
+Strng:having chapped lips<count> Count:4<count> Probability:1.0
+Strng:being raped by<count> Count:4<count> Probability:1.0
+Strng:being sick over<count> Count:4<count> Probability:1.0
+Strng:being blinded by<count> Count:4<count> Probability:1.0
+Strng:being second best<count> Count:4<count> Probability:1.0
+Strng:doing yard work<count> Count:4<count> Probability:1.0
+Strng:getting stood up<count> Count:4<count> Probability:1.0
+Strng:being left to<count> Count:4<count> Probability:1.0
+Strng:getting soak and<count> Count:4<count> Probability:1.0
+Strng:getting blood drawn<count> Count:4<count> Probability:1.0
+Strng:making meat and<count> Count:4<count> Probability:1.0
+Strng:hitting red lights<count> Count:4<count> Probability:1.0
+Strng:getting less than<count> Count:4<count> Probability:1.0
+Strng:being allergic to<count> Count:4<count> Probability:1.0
+Strng:getting emails from<count> Count:4<count> Probability:1.0
+Strng:having volleyball practice<count> Count:4<count> Probability:1.0
+Strng:being hit on<count> Count:4<count> Probability:1.0
+Strng:getting paid &amp<count> Count:4<count> Probability:1.0
+Strng:getting treated like<count> Count:4<count> Probability:1.0
+Strng:walking past someone<count> Count:4<count> Probability:1.0
+Strng:having a cold<count> Count:4<count> Probability:1.0
+Strng:being ignored all<count> Count:4<count> Probability:1.0
+Strng:being up before<count> Count:4<count> Probability:1.0
+Strng:redoing work i<count> Count:4<count> Probability:1.0
+Strng:being ignored #thanks<count> Count:4<count> Probability:1.0
+Strng:seeing happy couples<count> Count:4<count> Probability:1.0
+Strng:getting shoved from<count> Count:4<count> Probability:1.0
+Strng:being alone on<count> Count:4<count> Probability:1.0
+Strng:feeling stressed and<count> Count:4<count> Probability:1.0
+Strng:being ignored #bestfeelingever<count> Count:4<count> Probability:1.0
+Strng:beingggg<count> Count:2<count> Probability:1.0
+Strng:transposing<count> Count:2<count> Probability:1.0
+Strng:bieng<count> Count:2<count> Probability:1.0
+Strng:wakeing<count> Count:2<count> Probability:1.0
+Strng:squished<count> Count:2<count> Probability:1.0
+Strng:pmsing<count> Count:2<count> Probability:1.0
+Strng:#byh<count> Count:2<count> Probability:1.0
+Strng:being ignored<count> Count:276<count> Probability:0.9598214
+Strng:being left<count> Count:26<count> Probability:0.95238096
+Strng:sitting at home<count> Count:17<count> Probability:0.94736844
+Strng:being ignored i<count> Count:10<count> Probability:0.93939394
+Strng:being awake<count> Count:18<count> Probability:0.9375
+Strng:being lied<count> Count:38<count> Probability:0.9318182
+Strng:being lied to<count> Count:28<count> Probability:0.9318182
+Strng:being up at<count> Count:11<count> Probability:0.9285714
+Strng:starting my day<count> Count:9<count> Probability:0.9285714
+Strng:getting up early<count> Count:12<count> Probability:0.92
+Strng:being woke<count> Count:8<count> Probability:0.9189189
+Strng:getting ditched<count> Count:18<count> Probability:0.9166667
+Strng:waiting in the<count> Count:5<count> Probability:0.9166667
+Strng:waking up early<count> Count:43<count> Probability:0.91071427
+Strng:being locked<count> Count:14<count> Probability:0.90909094
+Strng:screwing<count> Count:3<count> Probability:0.90909094
+Strng:spending my<count> Count:48<count> Probability:0.9072165
+Strng:being locked out<count> Count:10<count> Probability:0.9
+Strng:getting up this<count> Count:7<count> Probability:0.9
+Strng:being ignored by<count> Count:26<count> Probability:0.8947368
+Strng:being invited<count> Count:14<count> Probability:0.8947368
+Strng:having homework<count> Count:6<count> Probability:0.8888889
+Strng:being home alone<count> Count:22<count> Probability:0.875
+Strng:being treated like<count> Count:20<count> Probability:0.875
+Strng:having nothing to<count> Count:12<count> Probability:0.875
+Strng:being the only<count> Count:9<count> Probability:0.875
+Strng:waiting at the<count> Count:6<count> Probability:0.875
+Strng:having to be<count> Count:6<count> Probability:0.85714287
+Strng:walking to class<count> Count:4<count> Probability:0.85714287
+Strng:texting someone and<count> Count:4<count> Probability:0.85714287
+Strng:coming home and<count> Count:20<count> Probability:0.84615386
+Strng:getting yelled at<count> Count:18<count> Probability:0.84615386
+Strng:waking up and<count> Count:12<count> Probability:0.84615386
+Strng:doing laundry<count> Count:6<count> Probability:0.84615386
+Strng:waking up at<count> Count:72<count> Probability:0.84444445
+Strng:being up<count> Count:33<count> Probability:0.84313726
+Strng:being stuck<count> Count:28<count> Probability:0.83870965
+Strng:being called a<count> Count:12<count> Probability:0.8333333
+Strng:writing essays<count> Count:12<count> Probability:0.8333333
+Strng:feeling like i'm<count> Count:7<count> Probability:0.8333333
+Strng:getting texts<count> Count:6<count> Probability:0.8333333
+Strng:being hit<count> Count:6<count> Probability:0.8333333
+Strng:being surrounded<count> Count:6<count> Probability:0.8333333
+Strng:being taken advantage<count> Count:6<count> Probability:0.8333333
+Strng:being surrounded by<count> Count:6<count> Probability:0.8333333
+Strng:getting no sleep<count> Count:4<count> Probability:0.8333333
+Strng:being treated<count> Count:24<count> Probability:0.8181818
+Strng:getting called<count> Count:14<count> Probability:0.8181818
+Strng:waking up every<count> Count:8<count> Probability:0.8181818
+Strng:waiting at<count> Count:6<count> Probability:0.8181818
+Strng:waiting in<count> Count:10<count> Probability:0.8125
+Strng:feeling like shit<count> Count:7<count> Probability:0.8125
+Strng:waking up to<count> Count:47<count> Probability:0.8111111
+Strng:coming home to<count> Count:62<count> Probability:0.8
+Strng:sitting at<count> Count:22<count> Probability:0.8
+Strng:being sick and<count> Count:12<count> Probability:0.8
+Strng:getting blown<count> Count:8<count> Probability:0.8
+Strng:getting punched<count> Count:6<count> Probability:0.8
+Strng:getting phone calls<count> Count:6<count> Probability:0.8
+Strng:walking past<count> Count:6<count> Probability:0.8
+Strng:being stuck at<count> Count:6<count> Probability:0.8
+Strng:waking up<count> Count:280<count> Probability:0.7906977
+Strng:being home<count> Count:38<count> Probability:0.7894737
+Strng:getting yelled<count> Count:18<count> Probability:0.78571427
+Strng:hearing my<count> Count:8<count> Probability:0.7777778
+Strng:being yelled at<count> Count:6<count> Probability:0.7777778
+Strng:being yelled<count> Count:6<count> Probability:0.7777778
+Strng:waking<count> Count:282<count> Probability:0.77117115
+Strng:wakin<count> Count:4<count> Probability:0.76950353
+Strng:getting woken<count> Count:14<count> Probability:0.7692308
+Strng:getting woken up<count> Count:14<count> Probability:0.7692308
+Strng:being up this<count> Count:9<count> Probability:0.7692308
+Strng:shoveling<count> Count:9<count> Probability:0.7692308
+Strng:being late<count> Count:8<count> Probability:0.7692308
+Strng:hearing about<count> Count:8<count> Probability:0.7692308
+Strng:texting someone<count> Count:6<count> Probability:0.7692308
+Strng:having to get<count> Count:4<count> Probability:0.7692308
+Strng:walking into<count> Count:9<count> Probability:0.7647059
+Strng:hypocrites<count> Count:4<count> Probability:0.7647059
+Strng:being sick<count> Count:124<count> Probability:0.76258993
+Strng:being told<count> Count:30<count> Probability:0.7586207
+Strng:getting up at<count> Count:12<count> Probability:0.75
+Strng:getting screwed<count> Count:8<count> Probability:0.75
+Strng:getting screwed over<count> Count:8<count> Probability:0.75
+Strng:taking cold<count> Count:6<count> Probability:0.75
+Strng:doing math<count> Count:6<count> Probability:0.75
+Strng:getting hate<count> Count:6<count> Probability:0.75
+Strng:working my<count> Count:6<count> Probability:0.75
+Strng:watching scary movies<count> Count:6<count> Probability:0.75
+Strng:watching scary<count> Count:6<count> Probability:0.75
+Strng:getting hit on<count> Count:4<count> Probability:0.75
+Strng:getting punched in<count> Count:4<count> Probability:0.75
+Strng:fighting with you<count> Count:4<count> Probability:0.75
+Strng:being lead on<count> Count:4<count> Probability:0.75
+Strng:getting texts from<count> Count:4<count> Probability:0.75
+Strng:coming home<count> Count:118<count> Probability:0.7222222
+Strng:waking up for<count> Count:9<count> Probability:0.71428573
+Strng:being told to<count> Count:8<count> Probability:0.71428573
+Strng:feeling like this<count> Count:7<count> Probability:0.71428573
+Strng:being late to<count> Count:6<count> Probability:0.71428573
+Strng:smelling like<count> Count:6<count> Probability:0.71428573
+Strng:dropping my phone<count> Count:5<count> Probability:0.71428573
+Strng:weekends<count> Count:2<count> Probability:0.71428573
+Strng:memorizing<count> Count:2<count> Probability:0.71428573
+Strng:spending<count> Count:105<count> Probability:0.7116788
+Strng:waking up with<count> Count:10<count> Probability:0.7083333
+Strng:mondays<count> Count:2<count> Probability:0.70422536
+Strng:waking up in<count> Count:17<count> Probability:0.7027027
+Strng:staying home<count> Count:12<count> Probability:0.6956522
+Strng:being called<count> Count:36<count> Probability:0.6923077
+Strng:love<count> Count:23<count> Probability:0.6899851
+Strng:starting my<count> Count:12<count> Probability:0.6896552
+Strng:being alone<count> Count:19<count> Probability:0.6875
+Strng:learning about<count> Count:10<count> Probability:0.6785714
+Strng:doing nothing<count> Count:14<count> Probability:0.67142856
+Strng:doing homework<count> Count:26<count> Probability:0.6712329
+Strng:being able<count> Count:20<count> Probability:0.6699029
+Strng:fighting with<count> Count:15<count> Probability:0.6666667
+Strng:having nothing<count> Count:12<count> Probability:0.6666667
+Strng:getting hit<count> Count:8<count> Probability:0.6666667
+Strng:writing papers<count> Count:6<count> Probability:0.6666667
+Strng:getting phone<count> Count:6<count> Probability:0.6666667
+Strng:getting bad<count> Count:6<count> Probability:0.6666667
+Strng:being accused<count> Count:6<count> Probability:0.6666667
+Strng:babysitting<count> Count:4<count> Probability:0.6666667
+Strng:commuting<count> Count:2<count> Probability:0.6666667
+Strng:finding out<count> Count:14<count> Probability:0.65217394
+Strng:rumors i<count> Count:6<count> Probability:0.64285713
+Strng:walking home<count> Count:20<count> Probability:0.64
+Strng:getting off<count> Count:10<count> Probability:0.64
+Strng:marching<count> Count:2<count> Probability:0.6363636
+Strng:getting up<count> Count:36<count> Probability:0.6296296
+Strng:reviewing<count> Count:3<count> Probability:0.625
+Strng:being forced<count> Count:10<count> Probability:0.61538464
+Strng:mornings<count> Count:4<count> Probability:0.61417323
+Strng:being at<count> Count:22<count> Probability:0.60294116
+Strng:redoing<count> Count:4<count> Probability:0.6
+Strng:canceling<count> Count:3<count> Probability:0.6
+Strng:meetings<count> Count:2<count> Probability:0.5952381
+Strng:headaches<count> Count:2<count> Probability:0.5714286
+Strng:thanks<count> Count:2<count> Probability:0.55028963
+Strng:smelling<count> Count:9<count> Probability:0.54285717
+Strng:volleyball<count> Count:2<count> Probability:0.5344828
+Strng:sitting<count> Count:82<count> Probability:0.51939654
+Strng:idiots<count> Count:2<count> Probability:0.51086956
+Strng:being<count> Count:1362<count> Probability:0.50214225
+Strng:sittin<count> Count:2<count> Probability:0.5010101
+Strng:spilling<count> Count:3<count> Probability:0.5
+Strng:blisters<count> Count:2<count> Probability:0.5
+Strng:parking<count> Count:2<count> Probability:0.5
+Strng:trains<count> Count:2<count> Probability:0.5
+Strng:recieving<count> Count:2<count> Probability:0.5
+Strng:economics<count> Count:2<count> Probability:0.5
+Strng:bein<count> Count:8<count> Probability:0.49733818
+Strng:traffic<count> Count:6<count> Probability:0.49561402
+Strng:cleaning<count> Count:25<count> Probability:0.49166667
+Strng:replacement<count> Count:2<count> Probability:0.48214287
+Strng:homework<count> Count:13<count> Probability:0.48185232
+Strng:football<count> Count:8<count> Probability:0.47834274
+Strng:hearing<count> Count:60<count> Probability:0.47513813
+Strng:sweating<count> Count:3<count> Probability:0.47368422
+Strng:biology<count> Count:3<count> Probability:0.4698795
+Strng:working<count> Count:138<count> Probability:0.46699876
+Strng:folding<count> Count:4<count> Probability:0.46666667
+Strng:algebra<count> Count:3<count> Probability:0.45833334
+Strng:chemistry<count> Count:2<count> Probability:0.4552239
+Strng:peeing<count> Count:5<count> Probability:0.45454547
+Strng:scratches<count> Count:3<count> Probability:0.45454547
+Strng:allergy<count> Count:2<count> Probability:0.45454547
+Strng:colds<count> Count:2<count> Probability:0.45454547
+Strng:coughing<count> Count:2<count> Probability:0.44680852
+Strng:rumors<count> Count:10<count> Probability:0.44444445
+Strng:copying<count> Count:2<count> Probability:0.44444445
+Strng:douche<count> Count:2<count> Probability:0.43373495
+Strng:delayed<count> Count:2<count> Probability:0.43333334
+Strng:having<count> Count:332<count> Probability:0.42656448
+Strng:morning<count> Count:4<count> Probability:0.422473
+Strng:havin<count> Count:4<count> Probability:0.420398
+Strng:receiving<count> Count:7<count> Probability:0.41666666
+Strng:filling<count> Count:3<count> Probability:0.41666666
